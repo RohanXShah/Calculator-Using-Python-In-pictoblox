@@ -1,0 +1,73 @@
+Calculator Using Python in PictoBlox
+
+A simple calculator project developed using Python mode in PictoBlox. This calculator performs basic arithmetic operations through an interactive interface, helping beginners understand Python programming concepts in a visual environment.
+
+Description
+
+This project demonstrates how Python can be used inside PictoBlox to build a functional calculator. Users can perform addition, subtraction, multiplication, and division. The project focuses on core Python concepts such as variables, input handling, conditional statements, and basic logic.
+
+Features
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+Interactive user input
+
+Beginner-friendly design
+
+Technologies Used
+
+PictoBlox
+
+Python (PictoBlox Python Mode)
+
+How It Works
+
+User selects an arithmetic operation
+
+Inputs two numbers
+
+Python code processes the operation
+
+Result is displayed on the screen
+
+Concepts Covered
+
+Python variables
+
+Input and output
+
+Conditional statements
+
+Arithmetic operators
+
+How to Run the Project
+
+Open PictoBlox
+
+Switch to Python Mode
+
+Open the project file
+
+Click the Run button to start
+
+Use Case
+
+School projects
+
+Python practice for beginners
+
+Learning Python with block-based tools
+
+Future Enhancements
+
+Add advanced operations
+
+Improve user interface
+
+Add error handling for invalid input
